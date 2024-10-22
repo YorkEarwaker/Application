@@ -6,7 +6,7 @@ The things within which application run.
 Platform systems
 * Application server
 * Container server
-* 'Microservices'
+* Interaction server
 * Web server
 
 Technology systems
