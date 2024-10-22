@@ -10,7 +10,7 @@ Organisation systems
 * Regulation - extra organisation
 * Rules - application of ethics, policy, regulaton, standards, ...
 * Services - application of inter/intra/extra organisation motivation offerings
-* Standards - multilateral
+* Standards - multilateral, interoperability
 * ...
 
 Platform systems
