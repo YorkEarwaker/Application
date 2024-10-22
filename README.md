@@ -4,12 +4,12 @@ Application layer things, organisation logic, organisation process automation, o
 The things within which an application runs. The application of doing things themselves. The application of human motivation.
 
 Organisation systems
-* Ethics
-* Policy
+* Ethics - hybrid federated, inter/intra/extra organisational
+* Policy - intra organisational
 * Process
-* Regulation
+* Regulation - extra organisational
 * Rules
-* Standards
+* Standards - multilateral
 * ...
 
 Platform systems
