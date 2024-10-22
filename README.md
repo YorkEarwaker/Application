@@ -4,13 +4,13 @@ Application layer things, organisation logic, organisation process, organisation
 The things within which an application runs. The application of doing things themselves. The application of human motivation.
 
 Organisation systems
-* Ethics - hybrid federated, inter/intra/extra organisation
+* Ethics - bilateral, hybrid federated, inter/intra/extra organisation
 * Policy - intra organisation
 * Process -  tasks and activities for input, throuhput, and output
 * Regulation - extra organisation
 * Rules - application of ethics, policy, regulaton, standards, ...
 * Services - application of inter/intra/extra organisation motivation offerings
-* Standards - multilateralism
+* Standards - multilateral
 * ...
 
 Platform systems
