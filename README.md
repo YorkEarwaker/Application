@@ -6,7 +6,7 @@ The things within which an application runs. The application of doing things the
 Organisation systems
 * Ethics - bilateral, hybrid federated, inter/intra/extra organisation
 * Policy - intra organisation
-* Process -  application of tasks and activities for input, throuhput, and output
+* Process -  application of tasks and methods for input, throuhput, and output
 * Regulation - extra organisation
 * Rules - application to process of ethics, policy, regulaton, standards, ...
 * Services - application of motivation for inter/intra/extra organisation offerings
