@@ -7,6 +7,7 @@ Organisation systems
 * Ethics - bilateral, hybrid federated, inter/intra/extra organisation
 * Policy - intra organisation
 * Process -  application of tasks and methods for input, throuhput, and output
+* Product - application of process and rules for creation (manufacturing) of some thing
 * Regulation - extra organisation
 * Rules - application to process of ethics, policy, regulaton, standards, ...
 * Services - application of motivation for inter/intra/extra organisation offerings
