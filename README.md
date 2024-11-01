@@ -19,9 +19,11 @@ Platform systems
 * Container server
 * Interaction server
 * Web server
+* ...
 
 Technology systems
-* Apache http server
-* Jetty
-* Tomcat
+* Http server, Apache
+* JBoss, Red Hat
+* Jetty, Eclipse
+* Tomcat, Apache
 * ...
