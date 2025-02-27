@@ -33,7 +33,8 @@ Technology systems
 ## Status
 
 TODO
-* <todo: enterprise integration project, likely several project that break out of that seperately >
+* <todo: consider, enterprise integration project, likely several project that break out of that seperately >
+* <todo: consider, first use case for climate model, connector, >
 
 DONE
 * <intent to commit>
