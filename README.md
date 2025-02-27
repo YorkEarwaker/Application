@@ -3,6 +3,8 @@ Application layer things, organisation logic, organisation process, organisation
 
 The things within which an application runs. The application of doing things themselves. The application of human motivation.
 
+Applications are often composites of many IT systems capability.
+
 Organisation systems
 * Ethics - bilateral, hybrid federated, inter/intra/extra organisation
 * Policy - intra organisation
@@ -27,3 +29,14 @@ Technology systems
 * Jetty, Eclipse
 * Tomcat, Apache
 * ...
+
+## Status
+
+TODO
+* <todo: enterprise integration project, likely several project that break out of that seperately >
+
+DONE
+* <intent to commit>
+
+## References
+
