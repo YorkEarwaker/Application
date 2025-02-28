@@ -5,7 +5,7 @@ EI patterns, middleware,
 Integration of
 * Systems, ISO OSI 7 layer model
 * Applications, data, middlware
-* Business, proces, workflow, business services, KYC, 
+* Business, proces, workflow, business services, KYC, AML, 
 * Enterprise, information, interaction
 * Sector, standards
 * ...
@@ -16,7 +16,7 @@ TODO
 * <todo: consider, Apache Camel, >
 * <todo: consider, WS02, >
 * <todo: consider, workflow, BPMN, CMN, DMN, tripple crown, >
-* <todo: consider, messaging system, MQ, ... >
+* <todo: consider, messaging system, MQ, MQTT broker, ... >
 
 DONE
 * <done: intent to commit>
