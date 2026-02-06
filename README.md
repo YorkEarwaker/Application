@@ -41,3 +41,4 @@ DONE
 
 ## References
 
+European alternatives for digital products, [WS](https://european-alternatives.eu/), EU, 
