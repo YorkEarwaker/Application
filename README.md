@@ -41,4 +41,6 @@ DONE
 
 ## References
 
-European alternatives for digital products, [WS](https://european-alternatives.eu/), EU, 
+* European alternatives for digital products, [WS](https://european-alternatives.eu/), EU, 
+* Digital Independence Day , step-by-step instructions on how to switch, <todo: source link>
+* Austrian IT developer Constantin Graf has compiled an almost exhaustive list of European alternatives, <todo: source link>
