@@ -14,6 +14,7 @@ Organisation systems
 * Rules - application to process of ethics, policy, regulaton, standards, ...
 * Services - application of motivation for inter/intra/extra organisation offerings
 * Standards - multilateral, interoperability, inter organisation
+* Sovereignty - risk, continuity, vendor lock in, security
 * ...
 
 Platform systems
