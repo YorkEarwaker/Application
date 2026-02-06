@@ -38,10 +38,13 @@ TODO
 * <todo: consider, first use case for climate model, connector, >
 
 DONE
-* <intent to commit>
+* <done: consider, intent to commit>
 
 ## References
 
 * European alternatives for digital products, [WS](https://european-alternatives.eu/), EU, 
-* Digital Independence Day , step-by-step instructions on how to switch, <todo: source link>
+* Digital Independence Day, [WS](https://di.day/), DE, step-by-step instructions on how to switch, 
 * Austrian IT developer Constantin Graf has compiled an almost exhaustive list of European alternatives, <todo: source link>
+* <todo: source similar initiatives in other countries, >
+
+
