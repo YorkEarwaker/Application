@@ -22,6 +22,7 @@ Platform systems
 * Container server
 * Interaction server
 * Web server
+* Middleware
 * ...
 
 Technology systems
@@ -29,6 +30,7 @@ Technology systems
 * JBoss, Red Hat
 * Jetty, Eclipse
 * Tomcat, Apache
+* CyclonDDS, Eclipse
 * ...
 
 ## Status
