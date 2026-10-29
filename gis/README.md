@@ -1,6 +1,6 @@
 # Geographic information system gis
 
-National resiliency vendor independent foss GIS stack, QGIS + PostGIS + GRASS + SAGA + RiverGIS + Itzi ecosystem on Linux, essential national functions capability.
+National resiliency vendor independent foss GIS stack, QGIS + PostGIS + GRASS + SAGA + RiverGIS + Itzi ecosystem on Linux, essential national functions capability in the face of global heating mitigation and adaptation and extreme weather events.
 
 stub
 
