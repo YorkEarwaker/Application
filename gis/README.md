@@ -11,7 +11,7 @@ Objectives
 
 ## Status
 TODO
-* <todo: consider, data framework stack, kafka, flink, hadoop, spark, ? others different? >
+* <todo: consider, data framework stack, kafka, flink, hadoop, spark, postgresql ? others different? >
 * <todo: consider, standards bodies open geospacial consortium ogc >
 
 DONE
