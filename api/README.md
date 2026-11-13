@@ -51,3 +51,6 @@ Technology standards
 * API
 * REST
 * WebService
+
+News Papers - architecture styles
+* The 6 API Architecture Styles: REST, RESTful, GraphQL, SOAP, gRPC, WebSockets, and MQTT, [WS](https://dev.to/ivannalon/the-6-api-architecture-styles-rest-restful-graphql-soap-grpc-websockets-and-mqtt-2a9h),  14 October 2024, Ivan Nalon
