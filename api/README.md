@@ -20,22 +20,22 @@ Comments
 ## Status
 TODO
 * <todo: consider, install HTTPie cli tool first REST tool evaluation >
-* <todo: consider, install Hurl cli testing frist microservice, already have curl installed what is the delta? >
+* <todo: consider, install Hurl cli testing frist microservice, already have curl installed what is the delta? Hurl has a dependency on libcurl, regression testing cli, >
 
 DONE
 * <done: consider, intent to commit>
 
 ## Libs
 
-Software - api development, linux, foss, dev + smoke testing
+Software - api development, linux, foss, dev + smoke testing, ide dev env
 * Bruno, desktop, git native workflow integration, stored files in git repository, first microservice dev, 
-* HTTPie, cli, rest only, terminal scripting, one off line add hoc checks, helper tool
 * Insomnia, desktop, native support for gRPC, WebSockets with no paid upgrade, widest protocol support, pros nice ui, cons, electron bloat
 * others tbd
 
 Software - api testing, linux, foss, full regression and contract testing frameworks
 * <todo: consider, microservice stack suggested by Brave AI to be validated, look for other options, >
-* Hurl, cli, single static binary, plain text tests - first microservice test, 
+* HTTPie, cli, rest only, terminal scripting, one off line add hoc checks, helper tool, dependency python, http/https only - first microservice call
+* Hurl, cli, single static binary rust, plain text tests, dependecy libcurl, http/https only - first microservice regression test
 * Pact, MIT JS, Apache 2.0 JVM, contracts - second service talks to first
 * Schemathesis, MIT, schema - have openAPi spec
 * k6, AGPL-3.0, load - require load numbers
