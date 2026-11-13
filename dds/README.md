@@ -24,6 +24,8 @@ Use Cases
 ## Status
 TODO
 * <todo: consider, first project, AGW focus, >
+* <todo: consider, hello world edge/real-time cpa c++ project, sensor data, dds real time publish, >
+* <todo: consider, hello world backend/enterprise jva java project, microservice, data persistence, integration, rules, business logic, front to back slice, >
 
 DONE
 * <done: consider, intent to commit>
