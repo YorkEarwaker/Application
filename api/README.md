@@ -27,7 +27,7 @@ DONE
 
 ## Libs
 
-Software - api development, linux, foss, dev + smoke testing, ide dev env
+Software - api development, linux, foss, dev + smoke testing, api client app dev env
 * Bruno, desktop, git native workflow integration, stored files in git repository, first microservice dev, 
 * Insomnia, desktop, native support for gRPC, WebSockets with no paid upgrade, widest protocol support, pros nice ui, cons, electron bloat
 * others tbd
@@ -35,7 +35,7 @@ Software - api development, linux, foss, dev + smoke testing, ide dev env
 Software - api testing, linux, foss, full regression and contract testing frameworks
 * <todo: consider, microservice stack suggested by Brave AI to be validated, look for other options, >
 * HTTPie, cli, rest only, terminal scripting, one off line add hoc checks, helper tool, dependency python, http/https only - first microservice call
-* Hurl, cli, single static binary rust, plain text tests, dependecy libcurl, http/https only - first microservice regression test
+* Hurl, cli, single static binary rust, plain text tests, dependecy libcurl, http/https only - first microservice regression contract test
 * Pact, MIT JS, Apache 2.0 JVM, contracts - second service talks to first
 * Schemathesis, MIT, schema - have openAPi spec
 * k6, AGPL-3.0, load - require load numbers
