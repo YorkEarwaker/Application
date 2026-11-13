@@ -20,17 +20,29 @@ Comments
 ## Status
 TODO
 * <todo: consider, install HTTPie cli tool first REST tool evaluation >
+* <todo: consider, install Hurl cli testing frist microservice, already have curl installed what is the delta? >
 
 DONE
 * <done: consider, intent to commit>
 
 ## Libs
 
-Software - api, linux, foss
-* Bruno, desktop, git integration
-* HTTPie, cli, rest only
-* Insomnia, desktop, 
+Software - api development, linux, foss, dev + smoke testing
+* Bruno, desktop, git native workflow integration, stored files in git repository, first microservice dev, 
+* HTTPie, cli, rest only, terminal scripting, one off line add hoc checks, helper tool
+* Insomnia, desktop, native support for gRPC, WebSockets with no paid upgrade, widest protocol support, pros nice ui, cons, electron bloat
 * others tbd
+
+Software - api testing, linux, foss, full regression and contract testing frameworks
+* <todo: consider, microservice stack suggested by Brave AI to be validated, look for other options, >
+* Hurl, cli, single static binary, plain text tests - first microservice test, 
+* Pact, MIT JS, Apache 2.0 JVM, contracts - second service talks to first
+* Schemathesis, MIT, schema - have openAPi spec
+* k6, AGPL-3.0, load - require load numbers
+* WireMock, Apache 2.0, mocking - stub a service downstream
+* Karate, MIT, regression
+* REST Assured, Apache 2.0, regression
+* Keploy, Apache 2.0, auto-gen, Linux-native, zero-code, 
 
 Protocols - tool support
 * REST, request response, JSON/XML
@@ -44,6 +56,20 @@ Protocols - tool support
 Technology standards
 * JSON
 * XML
+* ...
+
+Programming languages
+* Java, enterprise, Spring Boot, mature ecosystem
+* Node.js, JavaScript/TypeScript, I/O intensive server side, 
+* Python, RAD, Python3, data driven, machine learning, 
+* GO, Goland, cloud native, 
+* Rust, extreme performance, binary
+* Kotlin, reduced JVM boilerplate, 
+* TypeScript, type saftey, 
+
+Libs
+* Spring Boot, Java, client side
+* Node.js, JavaScript/TypeScript, server side 
 * ...
 
 ## References
